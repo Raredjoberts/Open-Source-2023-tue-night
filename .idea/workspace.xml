@@ -4,21 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8317de85-7537-4444-93e8-4a36a3897342" name="Changes" comment="Add Haiku">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="ee225a7d-2d46-434d-8436-2f0d3c0293d8" name="Changes" comment="Add Map1 &amp; Map2 files">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/JonathanB.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/Steven.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/alina.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/andres.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/baylee.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/caspian.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/isabella.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/jacobL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/jacobW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/jaredR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/jaredhH.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/kirsten.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/mads.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/nathan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/nik.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haikus/oleksiy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java2/opensource2023tuenight/MapShare_JacobW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java2/opensource2023tuenight/WordMultiple_JacobW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java2/opensource2023tuenight/HelloServlet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="upstream/main" />
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="JaredR-codingbat" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,35 +61,31 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8317de85-7537-4444-93e8-4a36a3897342" name="Changes" comment="" />
+      <changelist id="ee225a7d-2d46-434d-8436-2f0d3c0293d8" name="Changes" comment="Add Map1 &amp; Map2 files" />
       <created>1696381306193</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696381306193</updated>
       <workItem from="1696381307605" duration="4000" />
-      <workItem from="1696382207199" duration="2575000" />
-      <workItem from="1696429284368" duration="6000" />
-      <workItem from="1696979320475" duration="1571000" />
+      <workItem from="1697587192419" duration="622000" />
     </task>
-    <task id="LOCAL-00001" summary="Add Haiku">
-      <created>1696383997796</created>
+    <task id="LOCAL-00001" summary="Add Map1 &amp; Map2 files">
+      <created>1697586114353</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1696383997796</updated>
+      <updated>1697586114353</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -73,7 +94,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Haiku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Haiku" />
+    <MESSAGE value="Add Map1 &amp; Map2 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Map1 &amp; Map2 files" />
   </component>
 </project>
